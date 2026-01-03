@@ -1,0 +1,4 @@
+1. Frontend - 
+    - vite project setup 
+    - assets added
+    - folder structure
